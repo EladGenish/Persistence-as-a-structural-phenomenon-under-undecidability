@@ -82,6 +82,12 @@ Preprint
 
 Proof-status honest (proofs, proof sketches, or explicit downgrades provided)
 
+
+The testable signatures described in Section 8.2 (boundary-leading pulse, phase-lag maps, non-objective compression, boundary sensitivity) have been computationally validated through extensive testing over 2025-2026. Results and visualisations from these experiments have been shared on my public research channels, including ablation studies, critical-line analysis, spatial structure emergence, and cross-run learning demonstrations.
+
+The full technical implementation of RNSE—including operator specifications, grid architecture, and parameter optimisation—remains proprietary as I work toward commercial deployment. The framework formalised in this paper establishes the theoretical foundations and falsification criteria; interested parties are welcome to reach out regarding partnerships, licensing, or investment opportunities.
+
+This approach protects the novel computational architecture while ensuring the conceptual contributions are publicly timestamped and independently verifiable.
 Suitable for public discussion, critique, and review
 
 Citation
